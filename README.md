@@ -10,7 +10,7 @@ The table below can help you get the right compatible starting point for your wo
 | [Aurora-Sim](https://github.com/Galaxion-Legacy-Support/Aurora-Sim) | [Galaxion Solara](https://github.com/Galaxion-Origins/Galaxion-Solara) |
 | [Halcyon](https://github.com/Galaxion-Legacy-Support/Halcyon) | [Galaxion Elysian](https://github.com/Galaxion-Origins/Galaxion-Elysian) |
 | [OpenSimulator 0.8.x Series](https://github.com/Galaxion-Legacy-Support/Opensimulator-0.8.x) | [Galaxion Meridian Legacy](https://github.com/Galaxion-Origins/Galaxion-Meridian-Legacy) |
-| [OpenSimulator 0.9.x Series](https://github.com/Galaxion-Legacy-Support/Opensimulator-0.8.x) | [Galaxion Meridian Legacy](https://github.com/Galaxion-Origins/Galaxion-Meridian) |
+| [OpenSimulator 0.9.x Series](https://github.com/Galaxion-Legacy-Support/Opensimulator-0.8.x) | [Galaxion Meridian](https://github.com/Galaxion-Origins/Galaxion-Meridian) |
 | [WhiteCoreSim](https://github.com/Galaxion-Legacy-Support/WhiteCoreSim) | [Galaxion Palladium](https://github.com/Galaxion-Origins/Galaxion-Palladium) |
 
 
